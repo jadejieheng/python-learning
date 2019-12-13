@@ -1,4 +1,5 @@
 # sample python codes
-practice-jackfrued' python learning
-<break>
+
+practice-jackfrued's python learning
+
 berkely cs61a
