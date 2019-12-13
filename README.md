@@ -1,5 +1,5 @@
-# sample python codes
+# sample collections
 
-practice-jackfrued's python learning
+- jackfrued/Python-10-Days
 
-berkely cs61a
+- UCB/cs61a
